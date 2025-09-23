@@ -1,2 +1,2 @@
 # dsa
-✦ all my dsa studies will be saved here ✦
+✦ all my dsa studies will be here ✦
